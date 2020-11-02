@@ -1,6 +1,6 @@
 # Tech_Blog
 
-This E-Commerce Backend application you can use CRUD on Product, Category, Tag.
+This Tech_blog Backend application you can use CRUD on Post, Comment, User.
 
 The application gives yout the following options:
 
